@@ -7,12 +7,13 @@ The chatbot uses Pandas Dataframe containing financial data to answer user queri
 
 
 ```
-app.py
-chatbot.py
-data_loader.py
-finData.csv
-requirements.txt
-templates/index.html
+├──app.py
+├──chatbot.py
+├──data_loader.py
+├──finData.csv
+├──requirements.txt
+├──templates
+│   ├──index.html
 ```
 
 ## 1.app.py
