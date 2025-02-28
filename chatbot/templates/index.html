@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Investment Chatbot</title>
+</head>
+<body>
+<h1>Investment Chatbot</h1>
+<form action="/get_response" method="POST">
+<label for="msg">Enter your question:</label><br>
+<input type="text" id="msg" name="msg"><br><br>
+<button type="submit">Get Response</button>
+</form>
+<div class="response">
+{% if response %}
+	{{ response }}
+{% endif %}
+</div>
+</body>
+</html>	
