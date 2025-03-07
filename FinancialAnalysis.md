@@ -46,7 +46,12 @@ How to calculate the debt-to-asset ratio </p>
 <h3>Insights from Visualizations</h3>
 
 <h4>Bar chart - Total Revenue</h4>
-![Total Revenue](https://github.com/Libin-4821/bcg-genai-job-simulation/blob/main/images/AssetTurnoverRatio.png)
+![Total Revenue](https://github.com/Libin-4821/bcg-genai-job-simulation/blob/main/images/TotalRevenue.png)
+
+<p align="center">
+  <img src="images/TotalRevenue.png" width=auto title="Total Revenue">
+</p>
+
 <h5>Findings:</h5>
 <ul>Apple had stable revenue generation over the course of the last three fiscal years</ul>
 <ul>Microsoft has a steady growth in their revenue generation in these years</ul>
@@ -54,6 +59,11 @@ How to calculate the debt-to-asset ratio </p>
 
 <h4>Bar chart - Net Income</h4>
 ![Net Income](https://github.com/Libin-4821/bcg-genai-job-simulation/blob/main/images/NetIncome.png)
+
+<p align="center">
+  <img src="images/NetIncome.png" width=auto title="Net Income">
+</p>
+
 <h5>Findings:</h5>
 <ul>Apple's net income has been decreasing in the last three years. (Still has greater income than most companies)</ul>
 <ul>Microsoft had a great increase in net income in the last fiscal year</ul>
@@ -62,6 +72,11 @@ How to calculate the debt-to-asset ratio </p>
 <h4>Line chart - Debt to Equity Ratio (%)</h4>
 <p>The debt-to-equity ratio (D/E ratio) depicts how much debt a company has compared to its assets. It is calculated by dividing a company's total debt by total shareholder equity. Note a higher debt-to-equity ratio states the company may have a more difficult time covering its liabilities.</p>
 ![Debt To Equity Ratio](https://github.com/Libin-4821/bcg-genai-job-simulation/blob/main/images/Debt2Equity.png)
+
+<p align="center">
+  <img src="images/Debt2Equity.png" width=auto title="Debt to Equity Ratio">
+</p>
+
 <h5>Findings:</h5>
 <ul>Apple has considerably higher debt to equity ratio than Tesla and Microsoft implying Apple relies more on debts</ul>
 <ul>Microsoft and Tesla have lower debt to equity ratio compared to Apple</ul>
@@ -69,6 +84,11 @@ How to calculate the debt-to-asset ratio </p>
 <h4>Line chart - Debt to Asset Ratio</h4>
 <p>debt-to-asset ratio is an indicator of financial health. It illustrates the proportion of assets that are financed by debt. It reveals how much a company owns versus how much it owes.</p>
 ![Debt To Asset Ratio](https://github.com/Libin-4821/bcg-genai-job-simulation/blob/main/images/Debt2Asset.png)
+
+<p align="center">
+  <img src="images/Debt2Asset.png" width=auto title="Debt to Asset Ratio">
+</p>
+
 <h5>Findings:</h5>
 <ul>Apple's debt to asset ratio has increased in the last fiscal year and is considerably higher than the other two companies</ul>
 <ul>Microsoft and Tesla's Debt to Asset ratio has been decreasing in the last three fiscal years</ul>
@@ -76,6 +96,11 @@ How to calculate the debt-to-asset ratio </p>
 <h4>Bar chart - Asset Turnover Ratio</h4>
 <p>The asset turnover ratio (ATR) is a financial metric that measures how efficiently a company uses its assets to generate sales. It's calculated by dividing a company's net sales by its average total assets</p>
 ![Asset Turnover Ratio](https://github.com/Libin-4821/bcg-genai-job-simulation/blob/main/images/AssetTurnoverRatio.png)
+
+<p align="center">
+  <img src="images/AssetTurnoverRatio.png" width=auto title="Asset Turnover Ratio">
+</p>
+
 <h5>Findings:</h5>
 <ul>Microsoft has lower Asset Turnover Ratio than the other two</ul>
 <ul>All three companies have seen their Asset Turnover Ratio decrease in the last three fiscal years</ul>
@@ -83,6 +108,11 @@ How to calculate the debt-to-asset ratio </p>
 
 <h4>Bar chart - Revenue Growth %</h4>
 ![Revenue Growth](https://github.com/Libin-4821/bcg-genai-job-simulation/blob/main/images/RevenueGrowth.png)
+
+<p align="center">
+  <img src="images/RevenueGrowth.png" width=auto title="Revenue Growth">
+</p>
+
 <h5>Findings:</h5>
 <ul>Microsoft saw a rapid growth in their revenue in the last fiscal year</ul>
 <ul>Apple turned the trend in revenue growth from showing negative growth to positive growth</ul>
@@ -90,9 +120,11 @@ How to calculate the debt-to-asset ratio </p>
 
 <h4>Bar chart - Net Income Growth (%)</h4>
 ![Net Income Growth](https://github.com/Libin-4821/bcg-genai-job-simulation/blob/main/images/NetIncomeGrowth.png)
+
 <p align="center">
   <img src="images/NetIncomeGrowth.png" width=auto title="Net Income Growth">
 </p>
+
 <h5>Findings:</h5>
 <ul>Apple has negative net income growth over the last three fiscal years</ul>
 <ul>Microsoft had a surge in its net income growth from the year 2023 to 2024</ul>
