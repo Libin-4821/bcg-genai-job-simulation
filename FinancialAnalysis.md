@@ -90,6 +90,9 @@ How to calculate the debt-to-asset ratio </p>
 
 <h4>Bar chart - Net Income Growth (%)</h4>
 ![Net Income Growth](https://github.com/Libin-4821/bcg-genai-job-simulation/blob/main/images/NetIncomeGrowth.png)
+<p align="center">
+  <img src="images/NetIncomeGrowth.png" width=auto title="Net Income Growth">
+</p>
 <h5>Findings:</h5>
 <ul>Apple has negative net income growth over the last three fiscal years</ul>
 <ul>Microsoft had a surge in its net income growth from the year 2023 to 2024</ul>
