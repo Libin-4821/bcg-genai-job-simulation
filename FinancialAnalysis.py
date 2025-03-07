@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 #Loading the dataset
-data = pd.read_csv('finData.csv')
+data = pd.read_csv('chatbot/finData.csv') #Check with the file path and change according to the OS
 
 #Sorting data based on Company and year
 sorted_data = data.sort_values(by=['Company','Year'])
